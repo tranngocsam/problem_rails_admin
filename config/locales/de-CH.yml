@@ -1,0 +1,348 @@
+# German (Switzerland) translations for Ruby on Rails 
+# by Clemens Kofler (clemens@railway.at)
+
+de-CH:
+  idea: 'Idee'
+  ideas: 'Ideen'
+  displaying: 'Zeigt'
+  of: 'von'
+  in_total: 'insgesamt'
+  all: 'alle'
+  All: 'Alle'
+  show: 'Anzeigen'
+  edit: 'Bearbeiten'
+  delete: 'Löschen'
+  remove: 'Entfernen'
+  list: 'Liste'
+  new: 'Neu anlegen'   
+  first_name: 'Vorname'
+  last_name: 'Nachname' 
+  add_question: 'Inspirationsfrage hinzufügen'
+  description: 'Beschreibung'  
+  welcome: 'Willkommen'   
+  my_idea_for_the_project: "Meine Idee für die Challenge %{project}" 
+  total_ideas: "Total (%{count})"  
+  questions: 'Inspirationsfrage'
+  question: 'Fragestellung'
+  project: 'Challenge'
+  new_project: 'Challenge anlegen'
+  projects: 'Challenges'
+  update_project: 'Speichern'
+  edit_project: 'Challenge editieren'
+  enter_project_name: 'Name der Challenge'
+  edit_idea: 'Idee bearbeiten'
+  edit_profile: 'Profil bearbeiten'
+  submit_idea: 'Idee speichern'
+  submit_comment: 'Kommentar speichern'
+  owner: 'Autor'
+  actions: 'Aktionen'
+  ideas: 'Ideen'
+  community: 'Benutzer'
+  imprint: 'Impressum'
+  username: 'Benutzername'
+  username_or_email: 'Benutzername oder Email'
+  categories: 'Kategorien'
+  idea: 'Idee'
+  title: 'Titel'
+  all_ideas: 'Alle Ideen'
+  owned_projects: 'Meine kreierten Challenges'
+  member_projects: 'Meine Challenges'
+  join: 'Mitmachen!'
+  username: 'Benutzername'
+  password: 'Passwort'
+  password_confirmation: 'Passwort bestätigen!'
+  my_yutongo: 'Mein Ideencenter'
+  my_ideas: 'Meine Ideen'
+  user: 'Benutzer'
+  roles: 'Rollen'
+  enter_login: 'Login eingeben'
+  edit_user: 'Benutzer editieren'
+  couldnt_join_project: 'Teilnahme nicht möglich!'
+  rating: 'Bewertung'
+  access_denied: "Keine Berechtigung f&uuml;r diese Aktion"
+  top_ideas: 'Top Ideen'
+  recent_ideas: 'Neueste Ideen'
+  recent_projects: 'Neueste Challenges'
+  since: 'seit'
+  in: 'in'
+  by: 'von'
+  next: 'nächste'
+  previous: 'vorige'
+  ideas_for_question: 'Ideen für'
+  subject: 'Thema'
+  body: 'Kommentar'
+  no_questions_yet: 'noch keine Inspirationsfragen'
+  there_are_no_reviewed_ideas_yet: 'noch keine Ideen'
+  no_ideas_found: 'keine Ideen gefunden'
+  until_now: 'bis jetzt'
+  leave: 'Challenge verlassen'
+  join: 'Challenge teilnehmen'
+  created_at: 'angelegt vor'
+  idea_basics_in_short: 'Kern der Idee in 2 - 3 Worten'
+  your_idea: 'Ihre Idee'
+  idea_could_not_be_saved: 'Idee konnte nicht gespeichert werden'
+  created: 'Angelegt'
+  ago: 'vor'
+  with: 'mit'
+  for: 'zu'
+  all_ideas_for: 'Alle Ideen für'
+  new_comment: 'Neuer Kommentar'
+  your_comment: 'Dein Kommentar'
+  new_user: 'Neuer Benutzer'
+  start: 'Start'
+  start_ideation: 'Ideenfindung starten'
+  successfully_logged_in: 'Erfolgreich eingeloggt'
+  successfully_logged_out: 'Erfolgreich ausgeloggt'
+  successfully_updated_profile: 'Profil erfolgreich bearbeitet'
+  successfully_destroyed_user: 'Benutzer erfolgreich gelöscht'
+  you_must_be_logged_in_to_access_this_page : "Sie müssen eingeloggt sein um diese Seite aufzurufen."
+  you_must_be_logged_out_to_access_this_page : "Sie müssen ausgeloggt sein um diese Seite aufzurufen."
+  free_idea: 'Freie Ideen-Eingabe'
+  or: 'oder'
+  to_enter_ideas: 'um Ideen einzugeben'
+  comments: 'Kommentare'
+  personnel_nr: 'Personal-Nummer'
+  org_unit: 'Org.-Einheit'
+  successfully_created_comment: 'Kommentar erfolgreich angelegt.'
+  unable_to_create_comment: 'Kommentar konnte nicht gespeichert werden.'
+  successfully_updated_comment: 'Kommentar erfolgreich aktualisiert.'
+  successfully_deleted_comment: 'Kommentar erfolgreich gelöscht.'
+  recent_comments: 'Neueste Kommentare'
+  comment: 'Kommentar'
+  are_you_sure_to_delete_this_object?: 'Sind Sie sicher, dass Sie dieses Object l&ouml;schen möchten?'
+  successfully_created_project: 'Challenge erfolgreich angelegt.'
+  successfully_updated_project: 'Challenge erfolgreich aktualisiert.'
+  successfully_destroyed_project: 'Challenge erfolgreich gel&ouml;scht.'
+  project_cant_be_destroyed: 'Challenge konnte nicht gel&ouml;scht werden.'
+  successfully_joined_project: 'Teilnahme an Challenge erfolgreich.'
+  couldnt_join_project: 'Teilnahme an Challenge nicht erfolgreich.'
+  successfully_left_project: 'Challenge erfolgreich verlassen.'
+  couldnt_leave_project: 'Challenge konnte nicht verlassen werden.'
+  download_all_as_CSV: 'Alle Ideen als csv downloaden'
+  update_user: 'Speichern'
+  register: 'Registrieren'
+  rate_idea: 'Bewerte Idee'
+  next_idea: 'Nächste Idee'
+  previous_idea: 'Vorherige Idee'
+  nice_to_have_you_here: 'Schön, dass Du zu uns kommst.'
+  votes: 'Bewertungen'
+  average: 'Durchschnitt'
+  click_here_to: 'Hier geht es zum'
+  country: 'Land'
+  languages: 'Sprachen'
+  save: 'Sparen'
+  cancel: 'Lowest'
+  
+  date:
+    fndormats:
+      default: "%d.%m.%Y"
+      short: "%e. %b"
+      long: "%e. %B %Y"
+      only_day: "%e"
+
+    day_names:
+      - Sonntag
+      - Montag
+      - Dienstag
+      - Mittwoch
+      - Donnerstag
+      - Freitag
+      - Samstag
+    abbr_day_names:
+      - So
+      - Mo
+      - Di
+      - Mi
+      - Do
+      - Fr
+      - Sa
+    month_names:
+      - ~
+      - Januar
+      - Februar
+      - März
+      - April
+      - Mai
+      - Juni
+      - Juli
+      - August
+      - September
+      - Oktober
+      - November
+      - Dezember
+    abbr_month_names:
+      - ~
+      - Jan
+      - Feb
+      - Mär
+      - Apr
+      - Mai
+      - Jun
+      - Jul
+      - Aug
+      - Sep
+      - Okt
+      - Nov
+      - Dez
+    order:
+      - :day
+      - :month
+      - :year
+  
+  time:
+    formats:
+      default: "%A, %d. %B %Y, %H:%M Uhr"
+      short: "%d. %B, %H:%M Uhr"
+      long: "%A, %d. %B %Y, %H:%M Uhr"
+      time: "%H:%M"
+
+    am: "vormittags"
+    pm: "nachmittags"
+      
+  datetime:
+    distance_in_words:
+      half_a_minute: 'eine halbe Minute'
+      less_than_x_seconds:
+        one: 'weniger als eine Sekunde'
+        other: 'weniger als %{count} Sekunden'
+      x_seconds:
+        one: 'eine Sekunde'
+        other: '%{count} Sekunden'
+      less_than_x_minutes:
+        one: 'weniger als eine Minute'
+        other: 'weniger als %{count} Minuten'
+      x_minutes:
+        one: 'eine Minute'
+        other: '%{count} Minuten'
+      about_x_hours:
+        one: 'etwa eine Stunde'
+        other: 'etwa %{count} Stunden'
+      x_days:
+        one: 'ein Tag'
+        other: '%{count} Tagen'
+      about_x_months:
+        one: 'etwa ein Monat'
+        other: 'etwa %{count} Monaten'
+      x_months:
+        one: 'ein Monat'
+        other: '%{count} Monaten'
+      almost_x_years:
+        one: 'fast ein Jahr'
+        other: 'fast %{count} Jahren'
+      about_x_years:
+        one: 'etwa ein Jahr'
+        other: 'etwa %{count} Jahren'
+      over_x_years:
+        one: 'mehr als ein Jahr'
+        other: 'mehr als %{count} Jahren'
+    prompts:
+      second: "Sekunden"
+      minute: "Minuten"
+      hour: "Stunden"
+      day: "Tag"
+      month: "Monat"
+      year: "Jahr"
+
+  number:
+    format:
+      precision: 2
+      separator: '.'
+      delimiter: "'"
+    currency:
+      format:
+        unit: 'CHF'
+        format: '%u %n'
+        separator: 
+        delimiter: 
+        precision: 
+    percentage:
+      format:
+        delimiter: ""
+    precision:
+      format:
+        delimiter: ""
+    human:
+      format:
+        delimiter: ""
+        precision: 1
+      storage_units:
+        # Storage units output formatting.
+        # %u is the storage unit, %n is the number (default: 2 MB)
+        format: "%n %u"
+        units:
+          byte:
+            one:   "Byte"
+            other: "Bytes"
+          kb: "KB"
+          mb: "MB"
+          gb: "GB"
+          tb: "TB"
+
+  support:
+    array:
+      words_connector: ", "
+      two_words_connector: " und "
+      last_word_connector: " und "
+    select:
+      prompt: "Bitte wählen:"
+
+  activemodel:
+    errors:
+      template:
+        header:
+          one:    "Konnte %{model} nicht speichern: ein Fehler."
+          other:  "Konnte %{model} nicht speichern: %{count} Fehler."
+        body: "Bitte überprüfen Sie die folgenden Felder:"
+
+  activerecord:
+    errors:
+      template:
+        header:
+          one:    "Konnte %{model} nicht speichern: ein Fehler."
+          other:  "Konnte %{model} nicht speichern: %{count} Fehler."
+        body: "Bitte überprüfen Sie die folgenden Felder:"
+
+      messages:
+        inclusion: "ist kein gültiger Wert"
+        exclusion: "ist nicht verfügbar"
+        invalid: "ist nicht gültig"
+        confirmation: "stimmt nicht mit der Bestätigung überein"
+        accepted: "muss akzeptiert werden"
+        empty: "muss ausgefüllt werden"
+        blank: "muss ausgefüllt werden"
+        too_long: "ist zu lang (nicht mehr als %{count} Zeichen)"
+        too_short: "ist zu kurz (nicht weniger als %{count} Zeichen)"
+        wrong_length: "hat die falsche Länge (muss genau %{count} Zeichen haben)"
+        should_look_like_an_email_address: "sollte wie eine email Adresse aussehen"
+        taken: "ist bereits vergeben"
+        not_a_number: "ist keine Zahl"
+        greater_than: "muss grösser als %{count} sein"
+        greater_than_or_equal_to: "muss grösser oder gleich %{count} sein"
+        equal_to: "muss genau %{count} sein"
+        less_than: "muss kleiner als %{count} sein"
+        less_than_or_equal_to: "muss kleiner oder gleich %{count} sein"
+        odd: "muss ungerade sein"
+        even: "muss gerade sein"
+        record_invalid: "Gültigkeitsprüfung: %{errors}"
+
+  authlogic:
+    error_messages:
+      login_blank: "can not be blank"
+      login_not_found: "is not valid"
+      login_invalid: "sollte nur Buchstaben, Zahlen, Leerzeichen, und .-_@ beeinhalten."
+      consecutive_failed_logins_limit_exceeded: "Consecutive failed logins limit exceeded, account is disabled."
+      email_invalid: "sollte nach email Adresse aussehen."
+      password_blank: "can not be blank"
+      password_invalid: "is not valid"
+      not_active: "Your account is not active"
+      not_confirmed: "Your account is not confirmed"
+      not_approved: "Your account is not approved"
+      no_authentication_details: "You did not provide any details for authentication."
+    models:
+      user_session: "Benutzer Session"
+    attributes:
+      user_session:
+        login: "login"
+        email: "email"
+        password: "password"
+        remember_me: "remember me"
